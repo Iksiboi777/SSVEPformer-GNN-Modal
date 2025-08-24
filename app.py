@@ -65,7 +65,7 @@ def train_ssvepformer():
     os.environ["DATASET_INPUT_DIR"] = "/root/mtgnet/data/benchmark_data"
     os.environ["FEATURES_INPUT_DIR"] = "/root/mtgnet/ssvep_features/benchmark_features"
     
-    from train_benchmark import run_training
+    from Modal_New_Models.train.train_benchmark import run_training
     run_training()
 
     print("--- ✅ Training Complete ---")
