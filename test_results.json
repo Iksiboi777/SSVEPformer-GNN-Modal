@@ -1,0 +1,11 @@
+{
+    "testing_completed_at": "2025-08-21T14:39:55.935368",
+    "mean_accuracy": 0.7915,
+    "std_accuracy": 0.2036,
+    "mean_itr_bits_per_min": 43.83,
+    "std_itr": 15.9007,
+    "parameters": {
+        "num_subjects": 35,
+        "trial_duration_seconds_for_itr": 5.0
+    }
+}

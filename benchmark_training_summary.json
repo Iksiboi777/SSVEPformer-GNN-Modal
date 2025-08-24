@@ -1,0 +1,10 @@
+{
+    "training_completed_at": "2025-08-21T10:01:07.928458",
+    "total_training_time_seconds": 1824.67,
+    "parameters": {
+        "num_subjects": 35,
+        "epochs_per_fold": 100,
+        "batch_size": 128,
+        "learning_rate": 0.001
+    }
+}

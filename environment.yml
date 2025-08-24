@@ -1,0 +1,23 @@
+# environment.yml (Final Version with MKL fix)
+
+name: ssvep-env
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy=1.22.3
+  - pandas=1.4.3
+  - scipy=1.9.0
+  - matplotlib=3.5.2
+  - pyyaml=6.0.1
+  - scikit-learn=1.1.1
+  - pytorch=1.10.1
+  - torchvision=0.11.2
+  - torchaudio=0.10.1
+  - cudatoolkit=11.3
+  - mkl=2024.0.0  # The crucial fix for the iJIT error
+  - pip
+  - pip:
+    - einops==0.8.0

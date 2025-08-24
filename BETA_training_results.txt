@@ -1,0 +1,155 @@
+--- Loading preprocessed BETA data from ../../beta_features/BETA_ssvepformer_input.npz... ---
+
+############################################################
+        Starting SSVEPformer BETA Testing (LOSO)        
+############################################################
+
+--- Testing Fold 1/70 (on Subject 1) ---
+--- Results for Subject 1: Accuracy=0.9375, ITR=180.17 bits/min ---
+--- Testing Fold 2/70 (on Subject 2) ---
+--- Results for Subject 2: Accuracy=0.9250, ITR=175.79 bits/min ---
+--- Testing Fold 3/70 (on Subject 3) ---
+--- Results for Subject 3: Accuracy=0.9437, ITR=182.41 bits/min ---
+--- Testing Fold 4/70 (on Subject 4) ---
+--- Results for Subject 4: Accuracy=0.8688, ITR=157.45 bits/min ---
+--- Testing Fold 5/70 (on Subject 5) ---
+--- Results for Subject 5: Accuracy=0.8562, ITR=153.61 bits/min ---
+--- Testing Fold 6/70 (on Subject 6) ---
+--- Results for Subject 6: Accuracy=0.6813, ITR=105.84 bits/min ---
+--- Testing Fold 7/70 (on Subject 7) ---
+--- Results for Subject 7: Accuracy=0.4625, ITR=57.49 bits/min ---
+--- Testing Fold 8/70 (on Subject 8) ---
+--- Results for Subject 8: Accuracy=0.8125, ITR=140.70 bits/min ---
+--- Testing Fold 9/70 (on Subject 9) ---
+--- Results for Subject 9: Accuracy=0.9938, ITR=202.61 bits/min ---
+--- Testing Fold 10/70 (on Subject 10) ---
+--- Results for Subject 10: Accuracy=0.6875, ITR=107.39 bits/min ---
+--- Testing Fold 11/70 (on Subject 11) ---
+--- Results for Subject 11: Accuracy=0.3812, ITR=42.30 bits/min ---
+--- Testing Fold 12/70 (on Subject 12) ---
+--- Results for Subject 12: Accuracy=0.9313, ITR=177.96 bits/min ---
+--- Testing Fold 13/70 (on Subject 13) ---
+--- Results for Subject 13: Accuracy=0.9500, ITR=184.69 bits/min ---
+--- Testing Fold 14/70 (on Subject 14) ---
+--- Results for Subject 14: Accuracy=0.6375, ITR=95.27 bits/min ---
+--- Testing Fold 15/70 (on Subject 15) ---
+--- Results for Subject 15: Accuracy=0.7688, ITR=128.50 bits/min ---
+--- Testing Fold 16/70 (on Subject 16) ---
+--- Results for Subject 16: Accuracy=0.7000, ITR=110.52 bits/min ---
+--- Testing Fold 17/70 (on Subject 17) ---
+--- Results for Subject 17: Accuracy=0.2500, ITR=21.16 bits/min ---
+--- Testing Fold 18/70 (on Subject 18) ---
+--- Results for Subject 18: Accuracy=0.9812, ITR=196.97 bits/min ---
+--- Testing Fold 19/70 (on Subject 19) ---
+--- Results for Subject 19: Accuracy=0.8438, ITR=149.84 bits/min ---
+--- Testing Fold 20/70 (on Subject 20) ---
+--- Results for Subject 20: Accuracy=0.5062, ITR=66.29 bits/min ---
+--- Testing Fold 21/70 (on Subject 21) ---
+--- Results for Subject 21: Accuracy=0.8562, ITR=153.61 bits/min ---
+--- Testing Fold 22/70 (on Subject 22) ---
+--- Results for Subject 22: Accuracy=0.9125, ITR=171.54 bits/min ---
+--- Testing Fold 23/70 (on Subject 23) ---
+--- Results for Subject 23: Accuracy=0.9250, ITR=175.79 bits/min ---
+--- Testing Fold 24/70 (on Subject 24) ---
+--- Results for Subject 24: Accuracy=0.6250, ITR=92.34 bits/min ---
+--- Testing Fold 25/70 (on Subject 25) ---
+--- Results for Subject 25: Accuracy=0.3875, ITR=43.41 bits/min ---
+--- Testing Fold 26/70 (on Subject 26) ---
+--- Results for Subject 26: Accuracy=0.6750, ITR=104.30 bits/min ---
+--- Testing Fold 27/70 (on Subject 27) ---
+--- Results for Subject 27: Accuracy=0.8812, ITR=161.36 bits/min ---
+--- Testing Fold 28/70 (on Subject 28) ---
+--- Results for Subject 28: Accuracy=0.8875, ITR=163.35 bits/min ---
+--- Testing Fold 29/70 (on Subject 29) ---
+--- Results for Subject 29: Accuracy=0.9062, ITR=169.45 bits/min ---
+--- Testing Fold 30/70 (on Subject 30) ---
+--- Results for Subject 30: Accuracy=0.7312, ITR=118.52 bits/min ---
+--- Testing Fold 31/70 (on Subject 31) ---
+--- Results for Subject 31: Accuracy=0.4938, ITR=63.73 bits/min ---
+--- Testing Fold 32/70 (on Subject 32) ---
+--- Results for Subject 32: Accuracy=0.0875, ITR=2.75 bits/min ---
+--- Testing Fold 33/70 (on Subject 33) ---
+--- Results for Subject 33: Accuracy=0.6562, ITR=99.74 bits/min ---
+--- Testing Fold 34/70 (on Subject 34) ---
+--- Results for Subject 34: Accuracy=0.9500, ITR=184.69 bits/min ---
+--- Testing Fold 35/70 (on Subject 35) ---
+--- Results for Subject 35: Accuracy=0.9000, ITR=167.40 bits/min ---
+--- Testing Fold 36/70 (on Subject 36) ---
+--- Results for Subject 36: Accuracy=0.9500, ITR=184.69 bits/min ---
+--- Testing Fold 37/70 (on Subject 37) ---
+--- Results for Subject 37: Accuracy=0.9875, ITR=199.70 bits/min ---
+--- Testing Fold 38/70 (on Subject 38) ---
+--- Results for Subject 38: Accuracy=0.5875, ITR=83.76 bits/min ---
+--- Testing Fold 39/70 (on Subject 39) ---
+--- Results for Subject 39: Accuracy=0.8438, ITR=149.84 bits/min ---
+--- Testing Fold 40/70 (on Subject 40) ---
+--- Results for Subject 40: Accuracy=0.6750, ITR=104.30 bits/min ---
+--- Testing Fold 41/70 (on Subject 41) ---
+--- Results for Subject 41: Accuracy=0.3937, ITR=44.53 bits/min ---
+--- Testing Fold 42/70 (on Subject 42) ---
+--- Results for Subject 42: Accuracy=0.6750, ITR=104.30 bits/min ---
+--- Testing Fold 43/70 (on Subject 43) ---
+--- Results for Subject 43: Accuracy=0.7875, ITR=133.65 bits/min ---
+--- Testing Fold 44/70 (on Subject 44) ---
+--- Results for Subject 44: Accuracy=0.4875, ITR=62.46 bits/min ---
+--- Testing Fold 45/70 (on Subject 45) ---
+--- Results for Subject 45: Accuracy=0.6937, ITR=108.95 bits/min ---
+--- Testing Fold 46/70 (on Subject 46) ---
+--- Results for Subject 46: Accuracy=0.7937, ITR=135.39 bits/min ---
+--- Testing Fold 47/70 (on Subject 47) ---
+--- Results for Subject 47: Accuracy=0.6125, ITR=89.45 bits/min ---
+--- Testing Fold 48/70 (on Subject 48) ---
+--- Results for Subject 48: Accuracy=0.6625, ITR=101.25 bits/min ---
+--- Testing Fold 49/70 (on Subject 49) ---
+--- Results for Subject 49: Accuracy=0.8625, ITR=155.52 bits/min ---
+--- Testing Fold 50/70 (on Subject 50) ---
+--- Results for Subject 50: Accuracy=0.6625, ITR=101.25 bits/min ---
+--- Testing Fold 51/70 (on Subject 51) ---
+--- Results for Subject 51: Accuracy=0.7125, ITR=113.69 bits/min ---
+--- Testing Fold 52/70 (on Subject 52) ---
+--- Results for Subject 52: Accuracy=0.7937, ITR=135.39 bits/min ---
+--- Testing Fold 53/70 (on Subject 53) ---
+--- Results for Subject 53: Accuracy=0.8063, ITR=138.91 bits/min ---
+--- Testing Fold 54/70 (on Subject 54) ---
+--- Results for Subject 54: Accuracy=0.7000, ITR=110.52 bits/min ---
+--- Testing Fold 55/70 (on Subject 55) ---
+--- Results for Subject 55: Accuracy=0.4000, ITR=45.67 bits/min ---
+--- Testing Fold 56/70 (on Subject 56) ---
+--- Results for Subject 56: Accuracy=0.7500, ITR=123.46 bits/min ---
+--- Testing Fold 57/70 (on Subject 57) ---
+--- Results for Subject 57: Accuracy=0.9500, ITR=184.69 bits/min ---
+--- Testing Fold 58/70 (on Subject 58) ---
+--- Results for Subject 58: Accuracy=0.5750, ITR=80.98 bits/min ---
+--- Testing Fold 59/70 (on Subject 59) ---
+--- Results for Subject 59: Accuracy=0.3312, ITR=33.72 bits/min ---
+--- Testing Fold 60/70 (on Subject 60) ---
+--- Results for Subject 60: Accuracy=0.4750, ITR=59.96 bits/min ---
+--- Testing Fold 61/70 (on Subject 61) ---
+--- Results for Subject 61: Accuracy=0.3125, ITR=30.66 bits/min ---
+--- Testing Fold 62/70 (on Subject 62) ---
+--- Results for Subject 62: Accuracy=0.8750, ITR=159.39 bits/min ---
+--- Testing Fold 63/70 (on Subject 63) ---
+--- Results for Subject 63: Accuracy=0.9625, ITR=189.41 bits/min ---
+--- Testing Fold 64/70 (on Subject 64) ---
+--- Results for Subject 64: Accuracy=0.8500, ITR=151.71 bits/min ---
+--- Testing Fold 65/70 (on Subject 65) ---
+--- Results for Subject 65: Accuracy=0.4062, ITR=46.81 bits/min ---
+--- Testing Fold 66/70 (on Subject 66) ---
+--- Results for Subject 66: Accuracy=0.9062, ITR=169.45 bits/min ---
+--- Testing Fold 67/70 (on Subject 67) ---
+--- Results for Subject 67: Accuracy=0.9187, ITR=173.65 bits/min ---
+--- Testing Fold 68/70 (on Subject 68) ---
+--- Results for Subject 68: Accuracy=0.5375, ITR=72.83 bits/min ---
+--- Testing Fold 69/70 (on Subject 69) ---
+--- Results for Subject 69: Accuracy=0.5687, ITR=79.60 bits/min ---
+--- Testing Fold 70/70 (on Subject 70) ---
+--- Results for Subject 70: Accuracy=0.8562, ITR=153.61 bits/min ---
+
+############################################################
+                 Final Averaged Results                 
+############################################################
+
+Mean Accuracy across all 70 subjects: 0.7194 ± 0.2084 (71.94%)
+Mean ITR across all 70 subjects: 121.74 ± 50.93 bits/min
+
+############################################################
